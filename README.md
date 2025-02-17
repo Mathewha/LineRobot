@@ -460,19 +460,6 @@ The project successfully demonstrated the integration of IR sensors and motor co
 - **Ultrasonic Sensors**: Use ultrasonic sensors to detect obstacles, allowing the robot to navigate around them and avoid collisions.
 - **Advanced Path Planning**: Implement more sophisticated algorithms for path planning and obstacle avoidance.
 
-## Appendices
-### Project Plan
-Tasks (and their distribution among members):
- - Task 1: Component Selection (Everyone)
- - Task 2: Assembling the Car (Maciej)
- - Task 3: Wiring & Power Setup (Maciej)
- - Task 4: Initial Testing of Hardware (Maciej)
- - Task 5: Developing Line-Following Algorithm (Bartosz)
- - Task 6: Developing Color Detection System (Bartosz & Maciej - failed because of RGB sensor)
- - Task 7: Sensor Calibration (Bartosz)
- - Task 8: Software-Hardware Integration (Bartosz & Matio)
- - Task 9: Initial System Testing (Bartosz & Maciej)
- - Task 10: Finalising documentation (Everyone)
 
 ## Milestones
 ### **SMART Milestone 1: Hardware Assembly & Sensor Integration**
@@ -480,7 +467,7 @@ Tasks (and their distribution among members):
 - **Measurable**: Complete assembly and verify that the motors respond to control signals and all sensors provide readings. Success criteria will be based on:
   - Motors run when commanded (100% functionality).
   - Sensors detect at least 3 types of color and infrared input (90% accuracy in basic tests).
-- **Achievable**: Team Member 1 and 3 (Maciej and Bartosz) have experience with hardware assembly and sensor integration, making this task feasible with the available tools and components.
+- **Achievable**: Team Member 1 (Maciej) have experience with hardware assembly and sensor integration, making this task feasible with the available tools and components.
 - **Relevant**: This milestone is crucial because a fully assembled and functioning robot is the foundation for software development and testing.
 - **Time-bound**: Start on **October 23, 2024**, and finish by **November 20th, 2024**.
 
